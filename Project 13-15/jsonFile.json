@@ -1,0 +1,22 @@
+{
+    "countries": [
+        {
+            "name": "France",
+            "capital": "Paris",
+            "population": 67.75,
+            "currency": "EUR"
+        },
+        {
+            "name": "Germany",
+            "capital": "Berlin",
+            "population": 83.2,
+            "currency": "EUR"
+        },
+        {
+            "name": "Italy",
+            "capital": "Roma",
+            "population": 59.11,
+            "currency": "EUR"
+        }
+    ]
+}
